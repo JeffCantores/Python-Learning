@@ -10,4 +10,3 @@ else:
             print('That is not a lot of cats.')
     except ValueError:
         print('Invalid input.')
-        
